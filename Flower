@@ -1,0 +1,15 @@
+# Pong10-24.github.io
+<!DOCTYPE html>
+<title>Growing Flower</title>
+<style type="text/css">
+  .growing {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    background: radial-gradient(farthest-side at 64.5% 40.5%/10px 9px, #0000 97%, #0000 89.5% 38%/15px 10px), radial-gradient(farthest-side at 64% 64%/15px 10px, #0000 97%, #0000 89.5% 64%/15px 10px), linear-gradient(#996b52 91% 80%, #0000 80% 9%, #639510 77%);
+    background-repeat: no-repeat;
+    inset: 66.66% 66.66%;
+    inset: -100vh 49px 100vh 54px;
+    opacity: 1;
+  }
+</style>
